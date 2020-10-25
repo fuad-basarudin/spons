@@ -2,7 +2,7 @@
   "name": "SPONGEBOB",
   "version": "0.0.1",
   "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -10,6 +10,6 @@
     "axios": "^0.19.2"
   },
   "engines": {
-    "node": "12.x"
+    "node": "12.x.x"
  
 }
