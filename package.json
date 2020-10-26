@@ -1,8 +1,8 @@
 {
-  "name": "SPONGEBOB",
+  "name": "FUAD",
   "version": "0.0.1",
   "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -11,5 +11,5 @@
   },
   "engines": {
     "node": "12.x.x"
- 
+  }
 }
